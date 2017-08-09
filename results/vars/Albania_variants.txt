@@ -1,0 +1,6 @@
+Single Variant Files (0/379)
+
+
+Multi Variant Files (1/379)
+Position: 4306	File: ID12255462_S2503_L012_3DL2nuc	Variant: C/G	File: ID12870411_S1681_L012_3DL2nuc	Variant: C/G
+

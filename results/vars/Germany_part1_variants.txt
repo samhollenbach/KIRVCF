@@ -1,0 +1,526 @@
+Single Variant Files (149/420870)
+Position: 6400	File: ID12205670_S3973_L012_3DL2nuc	Variant: T/C
+
+Position: 4353	File: ID12208709_S1174_L001_3DL2nuc	Variant: C/T
+
+Position: 6146	File: ID12214528_S891_L012_3DL2nuc	Variant: C/T
+
+Position: 6148	File: ID12564277_S1176_L012_3DL2nuc	Variant: A/G
+
+Position: 4357	File: ID12433441_S1532_L012_3DL2nuc	Variant: A/G
+
+Position: 6406	File: ID12552512_S3468_L012_3DL2nuc	Variant: T/C
+
+Position: 4425	File: ID12312564_S3001_L012_3DL2nuc	Variant: A/G
+
+Position: 6155	File: ID12193993_S4269_L012_3DL2nuc	Variant: C/T
+
+Position: 6412	File: ID12365323_S860_L012_3DL2nuc	Variant: G/A
+
+Position: 6402	File: ID13194419_S1976_L012_3DL2nuc	Variant: T/A
+
+Position: 4397	File: ID12279432_S267_L012_3DL2nuc	Variant: G/G
+
+Position: 4368	File: ID12286341_S1955_L012_3DL2nuc	Variant: G/G
+
+Position: 6162	File: ID13034307_S1137_L012_3DL2nuc	Variant: G/A
+
+Position: 4375	File: ID12503326_S3089_L012_3DL2nuc	Variant: A/G
+
+Position: 6411	File: ID13085971_S2615_L012_3DL2nuc	Variant: G/C
+
+Position: 6170	File: ID12418033_S3101_L012_3DL2nuc	Variant: A/G
+
+Position: 4527	File: ID12284012_S566_L012_3DL2nuc	Variant: C/T
+
+Position: 4381	File: ID13407701_S2665_L012_3DL2nuc	Variant: C/G
+
+Position: 6174	File: ID12376723_S759_L012_3DL2nuc	Variant: G/C
+
+Position: 6175	File: ID13284846_S3655_L012_3DL2nuc	Variant: A/G
+
+Position: 4384	File: ID12317272_S954_L012_3DL2nuc	Variant: C/T
+
+Position: 6177	File: ID12365569_S907_L012_3DL2nuc	Variant: A/G
+
+Position: 6181	File: ID12472995_S594_L012_3DL2nuc	Variant: T/C
+
+Position: 4390	File: ID12317334_S1016_L012_3DL2nuc	Variant: C/C
+
+Position: 6183	File: ID12397530_S3672_L012_3DL2nuc	Variant: A/G
+
+Position: 6184	File: ID12365244_S781_L012_3DL2nuc	Variant: C/T
+
+Position: 4444	File: ID12299751_S577_L012_3DL2nuc	Variant: T/C
+
+Position: 6186	File: ID12298348_S1221_L012_3DL2nuc	Variant: T/C
+
+Position: 6189	File: ID12802945_S2735_L012_3DL2nuc	Variant: T/A
+
+Position: 6193	File: ID12167612_S3685_L012_3DL2nuc	Variant: G/A
+
+Position: 4404	File: ID13174107_S2359_L012_3DL2nuc	Variant: C/T
+
+Position: 4405	File: ID12760840_S3643_L012_3DL2nuc	Variant: A/G
+
+Position: 4409	File: ID12835005_S4479_L012_3DL2nuc	Variant: T/C
+
+Position: 6239	File: ID13207184_S1387_L012_3DL2nuc	Variant: G/C
+
+Position: 4412	File: ID12349162_S649_L012_3DL2nuc	Variant: G/A
+
+Position: 4413	File: ID12622314_S3466_L012_3DL2nuc	Variant: G/A
+
+Position: 6208	File: ID12706581_S2246_L012_3DL2nuc	Variant: C/T
+
+Position: 6210	File: ID12364627_S686_L012_3DL2nuc	Variant: C/C
+
+Position: 4419	File: ID13259677_S3311_L012_3DL2nuc	Variant: A/C
+
+Position: 4420	File: ID12274297_S967_L012_3DL2nuc	Variant: A/G
+
+Position: 6213	File: ID12666347_S3223_L012_3DL2nuc	Variant: G/C
+
+Position: 4486	File: ID12311076_S4322_L012_3DL2nuc	Variant: T/C
+
+Position: 6217	File: ID13439921_S2913_L012_3DL2nuc	Variant: T/C
+
+Position: 4429	File: ID13357187_S3982_L012_3DL2nuc	Variant: T/C
+
+Position: 4430	File: ID12300674_S1401_L012_3DL2nuc	Variant: C/T
+
+Position: 6157	File: ID12665953_S2927_L012_3DL2nuc	Variant: C/G
+
+Position: 4433	File: ID12313440_S421_L012_3DL2nuc	Variant: C/T
+
+Position: 4434	File: ID12284698_S1186_L012_3DL2nuc	Variant: A/G
+
+Position: 6230	File: ID13180389_S925_L012_3DL2nuc	Variant: C/T
+
+Position: 4281	File: ID12687937_S3205_L012_3DL2nuc	Variant: G/A
+
+Position: 6232	File: ID13209601_S2626_L012_3DL2nuc	Variant: G/C
+
+Position: 6233	File: ID12634867_S2958_L012_3DL2nuc	Variant: G/A
+
+Position: 6236	File: ID12810261_S3616_L012_3DL2nuc	Variant: A/G
+
+Position: 4445	File: ID13443564_S2275_L012_3DL2nuc	Variant: G/A
+
+Position: 4382	File: ID12766751_S2889_L012_3DL2nuc	Variant: T/T
+
+Position: 4342	File: ID13338273_S476_L012_3DL2nuc	Variant: A/G
+
+Position: 4450	File: ID12528754_S372_L012_3DL2nuc	Variant: C/T
+
+Position: 4453	File: ID12477649_S3973_L012_3DL2nuc	Variant: T/C
+
+Position: 4454	File: ID12644544_S3083_L012_3DL2nuc	Variant: C/G
+
+Position: 4497	File: ID12679556_S2424_L012_3DL2nuc	Variant: C/A
+
+Position: 4457	File: ID12312754_S3191_L012_3DL2nuc	Variant: T/C
+
+Position: 4459	File: ID13191657_S1683_L012_3DL2nuc	Variant: C/A
+
+Position: 4463	File: ID12562682_S4642_L012_3DL2nuc	Variant: A/G
+
+Position: 6256	File: ID12622980_S889_L012_3DL2nuc	Variant: G/C
+
+Position: 4465	File: ID12626417_S2261_L012_3DL2nuc	Variant: C/T
+
+Position: 4467	File: ID12948143_S3862_L012_3DL2nuc	Variant: T/C
+
+Position: 4472	File: ID12279291_S126_L012_3DL2nuc	Variant: A/G
+
+Position: 4500	File: ID12693331_S2586_L012_3DL2nuc	Variant: T/C
+
+Position: 6266	File: ID13091982_S432_L012_3DL2nuc	Variant: A/G
+
+Position: 4475	File: ID13467217_S3216_L012_3DL2nuc	Variant: C/C
+
+Position: 4477	File: ID12968384_S1993_L012_3DL2nuc	Variant: A/T
+
+Position: 6271	File: ID12167593_S3666_L012_3DL2nuc	Variant: C/T
+
+Position: 6272	File: ID12970620_S1330_L012_3DL2nuc	Variant: C/T
+
+Position: 4481	File: ID12311770_S3841_L012_3DL2nuc	Variant: T/C
+
+Position: 6274	File: ID12210344_S3381_L012_3DL2nuc	Variant: A/G
+
+Position: 6276	File: ID13256561_S1128_L012_3DL2nuc	Variant: G/T
+
+Position: 6278	File: ID13293346_S4121_L012_3DL2nuc	Variant: C/G
+
+Position: 4258	File: ID13004553_S1806_L012_3DL2nuc	Variant: A/G
+
+Position: 6280	File: ID12365320_S857_L012_3DL2nuc	Variant: A/G
+
+Position: 4490	File: ID12307443_S665_L012_3DL2nuc	Variant: T/C
+
+Position: 4492	File: ID12283960_S514_L012_3DL2nuc	Variant: A/G
+
+Position: 6287	File: ID13271119_S2982_L012_3DL2nuc	Variant: A/G
+
+Position: 6289	File: ID12354003_S3053_L012_3DL2nuc	Variant: T/C
+
+Position: 6291	File: ID12632393_S1906_L012_3DL2nuc	Variant: C/G
+
+Position: 6292	File: ID13486667_S3776_L012_3DL2nuc	Variant: A/C
+
+Position: 4502	File: ID12319662_S357_L012_3DL2nuc	Variant: T/C
+
+Position: 4504	File: ID12295067_S4425_L012_3DL2nuc	Variant: A/G
+
+Position: 6134	File: ID13081590_S3466_L012_3DL2nuc	Variant: T/G
+
+Position: 4250	File: ID12286355_S1969_L012_3DL2nuc	Variant: C/T
+
+Position: 4251	File: ID12323679_S1815_L012_3DL2nuc	Variant: C/G
+
+Position: 4378	File: ID12286309_S1923_L012_3DL2nuc	Variant: A/G
+
+Position: 4506	File: ID13366893_S578_L012_3DL2nuc	Variant: T/G
+
+Position: 6303	File: ID13130397_S3174_L012_3DL2nuc	Variant: C/T
+
+Position: 4256	File: ID12520925_S704_L012_3DL2nuc	Variant: A/G
+
+Position: 4513	File: ID12309896_S3440_L012_3DL2nuc	Variant: C/T
+
+Position: 6306	File: ID13085971_S2615_L012_3DL2nuc	Variant: C/T
+
+Position: 4516	File: ID12419877_S48_L012_3DL2nuc	Variant: C/T
+
+Position: 4517	File: ID12318167_S3818_L012_3DL2nuc	Variant: C/A
+
+Position: 6310	File: ID12365560_S898_L012_3DL2nuc	Variant: G/A
+
+Position: 6129	File: ID12365285_S822_L012_3DL2nuc	Variant: A/G
+
+Position: 4265	File: ID12308768_S1270_L012_3DL2nuc	Variant: C/T
+
+Position: 6315	File: ID13099612_S3872_L012_3DL2nuc	Variant: G/T
+
+Position: 6316	File: ID13239251_S2216_L012_3DL2nuc	Variant: C/A
+
+Position: 6130	File: ID12332219_S1698_L012_3DL2nuc	Variant: A/G
+
+Position: 6319	File: ID12295215_S4573_L012_3DL2nuc	Variant: C/A
+
+Position: 4531	File: ID12598377_S380_L012_3DL2nuc	Variant: A/T
+
+Position: 4532	File: ID12749702_S3111_L012_3DL2nuc	Variant: C/T
+
+Position: 4277	File: ID12512223_S2145_L012_3DL2nuc	Variant: C/T
+
+Position: 4534	File: ID12268495_S4025_L012_3DL2nuc	Variant: T/C
+
+Position: 4279	File: ID12324033_S2034_L012_3DL2nuc	Variant: C/T
+
+Position: 6329	File: ID12364780_S839_L012_3DL2nuc	Variant: G/A
+
+Position: 4542	File: ID12498757_S2_L001_3DL2nuc	Variant: A/G
+
+Position: 4544	File: ID13082928_S117_L012_3DL2nuc	Variant: A/G
+
+Position: 4289	File: ID13062126_S1669_L012_3DL2nuc	Variant: G/A
+
+Position: 6338	File: ID13182926_S3799_L012_3DL2nuc	Variant: A/G
+
+Position: 4291	File: ID12533070_S244_L012_3DL2nuc	Variant: T/C
+
+Position: 6341	File: ID12843905_S1909_L012_3DL2nuc	Variant: C/G
+
+Position: 4257	File: ID13195254_S1991_L012_3DL2nuc	Variant: A/G
+
+Position: 4296	File: ID13224697_S410_L012_3DL2nuc	Variant: T/C
+
+Position: 4298	File: ID12783858_S1171_L012_3DL2nuc	Variant: A/T
+
+Position: 4301	File: ID12331047_S3813_L012_3DL2nuc	Variant: A/G
+
+Position: 4302	File: ID13267317_S4310_L012_3DL2nuc	Variant: G/A
+
+Position: 6351	File: ID12516527_S1878_L012_3DL2nuc	Variant: T/C
+
+Position: 6352	File: ID13432845_S697_L012_3DL2nuc	Variant: T/C
+
+Position: 4307	File: ID13197386_S4149_L012_3DL2nuc	Variant: A/G
+
+Position: 4308	File: ID12329388_S3436_L012_3DL2nuc	Variant: G/A
+
+Position: 4310	File: ID12303131_S1336_L012_3DL2nuc	Variant: C/T
+
+Position: 6359	File: ID12274622_S2587_L012_3DL2nuc	Variant: C/A
+
+Position: 6361	File: ID12347598_S2849_L012_3DL2nuc	Variant: T/C
+
+Position: 4431	File: ID12309752_S3680_L012_3DL2nuc	Variant: T/C
+
+Position: 6365	File: ID12397530_S3672_L012_3DL2nuc	Variant: C/A
+
+Position: 4318	File: ID12312982_S3611_L012_3DL2nuc	Variant: A/G
+
+Position: 6367	File: ID12830714_S4575_L012_3DL2nuc	Variant: G/A
+
+Position: 4323	File: ID13166355_S4140_L012_3DL2nuc	Variant: T/C
+
+Position: 4518	File: ID12307337_S1807_L012_3DL2nuc	Variant: A/G
+
+Position: 4330	File: ID12313113_S286_L012_3DL2nuc	Variant: G/G
+
+Position: 6124	File: ID12418502_S4797_L012_3DL2nuc	Variant: A/G
+
+Position: 4333	File: ID13341498_S2251_L012_3DL2nuc	Variant: T/C
+
+Position: 4337	File: ID12729177_S2892_L012_3DL2nuc	Variant: G/A
+
+Position: 4338	File: ID13338494_S2230_L012_3DL2nuc	Variant: T/C
+
+Position: 6137	File: ID12156434_S1685_L012_3DL2nuc	Variant: T/C
+
+Position: 6390	File: ID13431879_S3670_L012_3DL2nuc	Variant: C/A
+
+Position: 4345	File: ID12403594_S3241_L012_3DL2nuc	Variant: A/G
+
+Position: 6138	File: ID13337642_S1556_L012_3DL2nuc	Variant: C/A
+
+Position: 6395	File: ID12772520_S2727_L012_3DL2nuc	Variant: G/C
+
+Position: 6140	File: ID13135512_S319_L012_3DL2nuc	Variant: C/G
+
+Position: 4394	File: ID12320995_S3476_L012_3DL2nuc	Variant: T/C
+
+Position: 6398	File: ID12472995_S594_L012_3DL2nuc	Variant: T/A
+
+Position: 4262	File: ID13229208_S3696_L012_3DL2nuc	Variant: T/C
+
+
+
+Multi Variant Files (112/420870)
+Position: 6401	File: ID12548400_S3873_L012_3DL2nuc	Variant: T/C	File: ID12353739_S2021_L012_3DL2nuc	Variant: T/C	File: ID12364739_S798_L012_3DL2nuc	Variant: T/C	File: ID12365263_S800_L012_3DL2nuc	Variant: T/C
+
+Position: 6404	File: ID12590790_S624_L012_3DL2nuc	Variant: T/C	File: ID12481895_S1028_L012_3DL2nuc	Variant: T/C
+
+Position: 6407	File: ID12383755_S3486_L012_3DL2nuc	Variant: C/G	File: ID12360166_S2070_L012_3DL2nuc	Variant: C/T
+
+Position: 6152	File: ID13408029_S3994_L012_3DL2nuc	Variant: G/C	File: ID13063436_S713_L012_3DL2nuc	Variant: G/A	File: ID13374840_S915_L012_3DL2nuc	Variant: G/C
+
+Position: 4363	File: ID12665474_S2544_L012_3DL2nuc	Variant: A/T	File: ID12613944_S2638_L012_3DL2nuc	Variant: A/T
+
+Position: 4365	File: ID13342067_S1839_L012_3DL2nuc	Variant: G/A	File: ID12298352_S1225_L012_3DL2nuc	Variant: G/T	File: ID12963686_S577_L012_3DL2nuc	Variant: G/T
+
+Position: 4525	File: ID12203641_S4364_L012_3DL2nuc	Variant: C/G	File: ID12308594_S1047_L012_3DL2nuc	Variant: C/T	File: ID12274583_S126_L012_3DL2nuc	Variant: C/T
+
+Position: 4369	File: ID12166109_S3324_L012_3DL2nuc	Variant: T/C	File: ID12317360_S1042_L012_3DL2nuc	Variant: T/C	File: ID12579128_S2520_L012_3DL2nuc	Variant: T/C	File: ID12503326_S3089_L012_3DL2nuc	Variant: T/C
+
+Position: 6166	File: ID12555425_S2773_L012_3DL2nuc	Variant: A/T	File: ID13109378_S2256_L012_3DL2nuc	Variant: A/T	File: ID12621563_S2256_L012_3DL2nuc	Variant: A/T
+
+Position: 6168	File: ID12845127_S2478_L012_3DL2nuc	Variant: G/A	File: ID12688309_S3000_L012_3DL2nuc	Variant: G/A
+
+Position: 6172	File: ID13253550_S3885_L012_3DL2nuc	Variant: G/A	File: ID13232005_S1681_L012_3DL2nuc	Variant: G/A
+
+Position: 4396	File: ID12295085_S4443_L012_3DL2nuc	Variant: G/A	File: ID12816826_S874_L012_3DL2nuc	Variant: G/C
+
+Position: 4402	File: ID13151532_S4149_L012_3DL2nuc	Variant: T/A	File: ID12766751_S2889_L012_3DL2nuc	Variant: A/A
+
+Position: 6191	File: ID12998933_S99_L012_3DL2nuc	Variant: C/T	File: ID13034983_S4338_L012_3DL2nuc	Variant: C/G
+
+Position: 6194	File: ID12555425_S2773_L012_3DL2nuc	Variant: T/C	File: ID13109378_S2256_L012_3DL2nuc	Variant: T/C	File: ID13286024_S2325_L012_3DL2nuc	Variant: T/C
+
+Position: 4403	File: ID12751912_S4727_L012_3DL2nuc	Variant: C/T	File: ID13012712_S278_L012_3DL2nuc	Variant: C/T	File: ID12264593_S2272_L012_3DL2nuc	Variant: C/T	File: ID13152038_S49_L012_3DL2nuc	Variant: C/T
+
+Position: 6196	File: ID12943040_S173_L012_3DL2nuc	Variant: G/A	File: ID13307666_S1165_L012_3DL2nuc	Variant: G/A	File: ID12483466_S3066_L012_3DL2nuc	Variant: G/A
+
+Position: 6199	File: ID12995979_S4_L012_3DL2nuc	Variant: C/T	File: ID13071498_S3704_L012_3DL2nuc	Variant: C/T	File: ID12537706_S423_L012_3DL2nuc	Variant: C/T	File: ID13169275_S369_L012_3DL2nuc	Variant: C/T
+
+Position: 4408	File: ID13471220_S1552_L012_3DL2nuc	Variant: A/G	File: ID13409646_S3197_L012_3DL2nuc	Variant: A/G
+
+Position: 6202	File: ID12823125_S431_L012_3DL2nuc	Variant: G/A	File: ID12300559_S2726_L012_3DL2nuc	Variant: G/A
+
+Position: 6204	File: ID13127531_S3805_L012_3DL2nuc	Variant: A/T	File: ID12297949_S3321_L012_3DL2nuc	Variant: A/T
+
+Position: 6131	File: ID12758487_S3344_L012_3DL2nuc	Variant: A/T	File: ID12553711_S2273_L012_3DL2nuc	Variant: A/G	File: ID12687445_S3290_L012_3DL2nuc	Variant: A/T
+
+Position: 6209	File: ID13064040_S1493_L012_3DL2nuc	Variant: C/T	File: ID12536122_S976_L012_3DL2nuc	Variant: C/T
+
+Position: 6214	File: ID12360276_S2179_L012_3DL2nuc	Variant: A/T	File: ID12360203_S2107_L012_3DL2nuc	Variant: A/G
+
+Position: 4407	File: ID12319455_S12_L012_3DL2nuc	Variant: G/T	File: ID13092479_S390_L012_3DL2nuc	Variant: G/A
+
+Position: 6223	File: ID13440497_S1306_L012_3DL2nuc	Variant: A/G	File: ID12974593_S2391_L012_3DL2nuc	Variant: A/G
+
+Position: 6224	File: ID12259607_S3416_L012_3DL2nuc	Variant: T/C	File: ID12360037_S4726_L012_3DL2nuc	Variant: C/C
+
+Position: 4280	File: ID12682766_S3868_L012_3DL2nuc	Variant: A/G	File: ID12273876_S298_L012_3DL2nuc	Variant: A/G
+
+Position: 6227	File: ID12674543_S2121_L012_3DL2nuc	Variant: G/A	File: ID13471191_S2024_L012_3DL2nuc	Variant: G/A	File: ID12733614_S359_L012_3DL2nuc	Variant: G/A
+
+Position: 6228	File: ID12365580_S918_L012_3DL2nuc	Variant: C/C	File: ID12651951_S4683_L012_3DL2nuc	Variant: T/C	File: ID13034685_S1168_L012_3DL2nuc	Variant: T/C
+
+Position: 4442	File: ID12807401_S3449_L012_3DL2nuc	Variant: C/T	File: ID12421732_S12_L012_3DL2nuc	Variant: C/T
+
+Position: 4443	File: ID12957591_S3390_L012_3DL2nuc	Variant: T/A	File: ID12784359_S2821_L012_3DL2nuc	Variant: T/C
+
+Position: 4282	File: ID12886682_S2331_L012_3DL2nuc	Variant: G/A	File: ID12292502_S1192_L012_3DL2nuc	Variant: G/A
+
+Position: 6238	File: ID13473928_S1294_L012_3DL2nuc	Variant: G/A	File: ID12615192_S2775_L012_3DL2nuc	Variant: G/A	File: ID13204790_S1427_L012_3DL2nuc	Variant: G/A
+
+Position: 4496	File: ID12319373_S122_L012_3DL2nuc	Variant: C/T	File: ID12663652_S1896_L012_3DL2nuc	Variant: C/T	File: ID12580188_S2138_L012_3DL2nuc	Variant: C/T	File: ID13467842_S3834_L012_3DL2nuc	Variant: C/T
+
+Position: 6250	File: ID12746213_S3538_L012_3DL2nuc	Variant: A/G	File: ID12434409_S2691_L012_3DL2nuc	Variant: A/C
+
+Position: 6251	File: ID12347679_S3410_L012_3DL2nuc	Variant: A/G	File: ID12551516_S3240_L012_3DL2nuc	Variant: A/G
+
+Position: 4344	File: ID12308482_S1127_L012_3DL2nuc	Variant: C/T	File: ID12321568_S1817_L012_3DL2nuc	Variant: C/T
+
+Position: 4466	File: ID13389998_S2705_L012_3DL2nuc	Variant: C/G	File: ID12401524_S1718_L012_3DL2nuc	Variant: C/G
+
+Position: 6259	File: ID13127644_S3900_L012_3DL2nuc	Variant: T/C	File: ID12473045_S644_L012_3DL2nuc	Variant: T/C	File: ID12476243_S654_L012_3DL2nuc	Variant: T/C
+
+Position: 4468	File: ID12748528_S1501_L012_3DL2nuc	Variant: A/G	File: ID12292368_S2498_L012_3DL2nuc	Variant: A/G	File: ID12979911_S52_L001_3DL2nuc	Variant: A/G
+
+Position: 6261	File: ID12739831_S2939_L012_3DL2nuc	Variant: C/T	File: ID12776540_S3472_L012_3DL2nuc	Variant: C/T	File: ID13301766_S2377_L012_3DL2nuc	Variant: C/T	File: ID13444008_S1579_L012_3DL2nuc	Variant: C/T
+
+Position: 6264	File: ID12476458_S869_L012_3DL2nuc	Variant: G/A	File: ID13028191_S452_L012_3DL2nuc	Variant: G/A
+
+Position: 4473	File: ID12582854_S240_L012_3DL2nuc	Variant: T/C	File: ID12312653_S3090_L012_3DL2nuc	Variant: T/C	File: ID12898364_S1450_L012_3DL2nuc	Variant: T/A
+
+Position: 6268	File: ID12385552_S1835_L012_3DL2nuc	Variant: T/C	File: ID12276748_S3954_L012_3DL2nuc	Variant: T/C
+
+Position: 6273	File: ID12364477_S632_L012_3DL2nuc	Variant: A/G	File: ID12529524_S1442_L012_3DL2nuc	Variant: A/T
+
+Position: 6123	File: ID12195100_S3156_L012_3DL2nuc	Variant: T/C	File: ID12286119_S1_L001_3DL2nuc	Variant: T/C	File: ID13471492_S2379_L012_3DL2nuc	Variant: T/C	File: ID12877014_S2685_L012_3DL2nuc	Variant: T/C
+
+Position: 4484	File: ID12714655_S1992_L001_3DL2nuc	Variant: T/G	File: ID12628380_S4022_L012_3DL2nuc	Variant: T/C
+
+Position: 6282	File: ID12360218_S2121_L012_3DL2nuc	Variant: A/G	File: ID12167593_S3666_L012_3DL2nuc	Variant: A/G	File: ID13075054_S2692_L012_3DL2nuc	Variant: A/G
+
+Position: 4493	File: ID13093896_S2606_L012_3DL2nuc	Variant: C/A	File: ID13177366_S1767_L012_3DL2nuc	Variant: C/A	File: ID12941915_S4155_L012_3DL2nuc	Variant: C/A	File: ID12307841_S2022_L012_3DL2nuc	Variant: C/T
+
+Position: 4494	File: ID12313586_S3063_L012_3DL2nuc	Variant: T/C	File: ID12423565_S452_L012_3DL2nuc	Variant: T/A	File: ID12284981_S1075_L012_3DL2nuc	Variant: T/A
+
+Position: 6125	File: ID12807816_S4111_L012_3DL2nuc	Variant: T/C	File: ID12286804_S115_L001_3DL2nuc	Variant: T/C
+
+Position: 6288	File: ID12310188_S3828_L012_3DL2nuc	Variant: T/A	File: ID12349401_S792_L012_3DL2nuc	Variant: T/A	File: ID13442983_S914_L012_3DL2nuc	Variant: T/A
+
+Position: 4499	File: ID12286405_S484_L012_3DL2nuc	Variant: C/T	File: ID12308830_S1332_L012_3DL2nuc	Variant: C/T
+
+Position: 6297	File: ID13478748_S5_L001_3DL2nuc	Variant: G/A	File: ID13417536_S89_L012_3DL2nuc	Variant: G/C
+
+Position: 4249	File: ID12841716_S2055_L012_3DL2nuc	Variant: A/G	File: ID12520925_S704_L012_3DL2nuc	Variant: A/G
+
+Position: 6127	File: ID12418502_S4797_L012_3DL2nuc	Variant: A/G	File: ID12365263_S800_L012_3DL2nuc	Variant: A/G
+
+Position: 4508	File: ID12418080_S3148_L012_3DL2nuc	Variant: G/A	File: ID12873931_S603_L012_3DL2nuc	Variant: G/T	File: ID12298192_S1065_L012_3DL2nuc	Variant: G/T	File: ID12358824_S3683_L012_3DL2nuc	Variant: G/T
+
+Position: 4509	File: ID12547153_S636_L012_3DL2nuc	Variant: T/A	File: ID12313194_S4495_L012_3DL2nuc	Variant: T/C	File: ID12687717_S394_L001_3DL2nuc	Variant: T/C	File: ID12308232_S2221_L012_3DL2nuc	Variant: T/C
+
+Position: 6302	File: ID12194013_S4289_L012_3DL2nuc	Variant: T/C	File: ID12760894_S3791_L012_3DL2nuc	Variant: T/C	File: ID12360381_S2379_L012_3DL2nuc	Variant: T/C
+
+Position: 4511	File: ID12284698_S1186_L012_3DL2nuc	Variant: A/G	File: ID12300690_S1417_L012_3DL2nuc	Variant: A/G	File: ID12292400_S2530_L012_3DL2nuc	Variant: A/G
+
+Position: 6304	File: ID13069146_S1273_L012_3DL2nuc	Variant: C/T	File: ID13356834_S2873_L012_3DL2nuc	Variant: C/T
+
+Position: 6305	File: ID12360158_S2062_L012_3DL2nuc	Variant: T/C	File: ID12685701_S2742_L012_3DL2nuc	Variant: T/G
+
+Position: 6307	File: ID12889866_S453_L012_3DL2nuc	Variant: T/C	File: ID12365544_S882_L012_3DL2nuc	Variant: T/C
+
+Position: 6342	File: ID13167453_S920_L012_3DL2nuc	Variant: T/C	File: ID13438684_S3877_L012_3DL2nuc	Variant: T/A	File: ID13053615_S2233_L012_3DL2nuc	Variant: T/C
+
+Position: 4520	File: ID12287820_S2090_L012_3DL2nuc	Variant: T/C	File: ID12311076_S4322_L012_3DL2nuc	Variant: T/C	File: ID12298862_S103_L012_3DL2nuc	Variant: T/C
+
+Position: 6317	File: ID13369932_S4527_L012_3DL2nuc	Variant: C/T	File: ID12361205_S3446_L012_3DL2nuc	Variant: C/T
+
+Position: 4270	File: ID12275072_S1635_L012_3DL2nuc	Variant: T/C	File: ID12748528_S1501_L012_3DL2nuc	Variant: T/C	File: ID13464079_S3955_L012_3DL2nuc	Variant: T/C
+
+Position: 4528	File: ID12401951_S215_L001_3DL2nuc	Variant: T/C	File: ID12278983_S30_L012_3DL2nuc	Variant: T/C	File: ID12312248_S2782_L012_3DL2nuc	Variant: T/C
+
+Position: 6387	File: ID12777913_S253_L012_3DL2nuc	Variant: G/T	File: ID12508773_S3763_L012_3DL2nuc	Variant: G/A
+
+Position: 4276	File: ID12292900_S2838_L012_3DL2nuc	Variant: A/G	File: ID12319519_S76_L012_3DL2nuc	Variant: A/G
+
+Position: 6328	File: ID12668871_S3659_L012_3DL2nuc	Variant: G/A	File: ID12668852_S3646_L012_3DL2nuc	Variant: G/A	File: ID13041272_S10_L012_3DL2nuc	Variant: G/A	File: ID12362187_S2935_L012_3DL2nuc	Variant: G/A
+
+Position: 6260	File: ID13298976_S1832_L012_3DL2nuc	Variant: C/T	File: ID12320954_S748_L012_3DL2nuc	Variant: C/T	File: ID12526123_S381_L012_3DL2nuc	Variant: C/T
+
+Position: 6330	File: ID12294573_S4421_L012_3DL2nuc	Variant: A/T	File: ID12446557_S1744_L012_3DL2nuc	Variant: A/T
+
+Position: 4541	File: ID12323763_S1899_L012_3DL2nuc	Variant: C/T	File: ID12276095_S1408_L012_3DL2nuc	Variant: C/T	File: ID12294505_S4354_L012_3DL2nuc	Variant: C/T
+
+Position: 6334	File: ID12552022_S578_L012_3DL2nuc	Variant: A/G	File: ID12651951_S4683_L012_3DL2nuc	Variant: A/G
+
+Position: 4287	File: ID13057150_S2005_L012_3DL2nuc	Variant: C/G	File: ID13205749_S1694_L012_3DL2nuc	Variant: C/G	File: ID12313647_S194_L001_3DL2nuc	Variant: C/A	File: ID13153785_S4371_L012_3DL2nuc	Variant: C/G
+
+Position: 4545	File: ID12283527_S2587_L012_3DL2nuc	Variant: G/A	File: ID12309747_S3675_L012_3DL2nuc	Variant: G/A	File: ID13308893_S932_L012_3DL2nuc	Variant: G/A
+
+Position: 4546	File: ID12321560_S1809_L012_3DL2nuc	Variant: G/A	File: ID12274667_S185_L012_3DL2nuc	Variant: G/A	File: ID12319163_S4616_L012_3DL2nuc	Variant: G/A	File: ID12319499_S56_L012_3DL2nuc	Variant: G/A
+
+Position: 4547	File: ID12312529_S2967_L012_3DL2nuc	Variant: T/G	File: ID12309883_S3427_L012_3DL2nuc	Variant: T/C
+
+Position: 4294	File: ID12557689_S3438_L012_3DL2nuc	Variant: A/G	File: ID13345600_S37_L001_3DL2nuc	Variant: A/G	File: ID12300387_S1596_L012_3DL2nuc	Variant: A/G	File: ID12296419_S2484_L012_3DL2nuc	Variant: A/G
+
+Position: 4295	File: ID12324907_S3102_L012_3DL2nuc	Variant: A/G	File: ID12773666_S1545_L012_3DL2nuc	Variant: A/G	File: ID12308741_S1245_L012_3DL2nuc	Variant: A/G
+
+Position: 6346	File: ID13438684_S3877_L012_3DL2nuc	Variant: G/A	File: ID12208635_S4300_L012_3DL2nuc	Variant: G/A	File: ID13197768_S583_L012_3DL2nuc	Variant: G/T
+
+Position: 6348	File: ID12360237_S2140_L012_3DL2nuc	Variant: T/C	File: ID12205688_S3991_L012_3DL2nuc	Variant: T/C
+
+Position: 6350	File: ID12395133_S4539_L012_3DL2nuc	Variant: T/C	File: ID12454077_S3111_L012_3DL2nuc	Variant: T/A	File: ID12165633_S1155_L012_3DL2nuc	Variant: T/C
+
+Position: 4304	File: ID13042716_S2018_L012_3DL2nuc	Variant: G/A	File: ID13061425_S225_L012_3DL2nuc	Variant: G/A
+
+Position: 4305	File: ID13121952_S2109_L012_3DL2nuc	Variant: A/G	File: ID12279168_S9_L012_3DL2nuc	Variant: A/G
+
+Position: 4259	File: ID12844563_S1460_L012_3DL2nuc	Variant: A/G	File: ID12308482_S1127_L012_3DL2nuc	Variant: A/G
+
+Position: 4312	File: ID12264818_S2462_L012_3DL2nuc	Variant: T/C	File: ID12367251_S3479_L012_3DL2nuc	Variant: T/C	File: ID12480037_S1623_L012_3DL2nuc	Variant: T/C
+
+Position: 4316	File: ID12309071_S3781_L012_3DL2nuc	Variant: G/A	File: ID12699951_S2227_L012_3DL2nuc	Variant: G/A
+
+Position: 4320	File: ID12548684_S3962_L012_3DL2nuc	Variant: T/C	File: ID12328127_S183_L001_3DL2nuc	Variant: T/C	File: ID13304201_S1928_L012_3DL2nuc	Variant: T/C
+
+Position: 4432	File: ID12318948_S4591_L012_3DL2nuc	Variant: C/T	File: ID12634870_S2961_L012_3DL2nuc	Variant: C/T	File: ID12279404_S239_L012_3DL2nuc	Variant: C/T
+
+Position: 4322	File: ID12301526_S2157_L012_3DL2nuc	Variant: T/C	File: ID12309842_S3386_L012_3DL2nuc	Variant: T/C
+
+Position: 6139	File: ID12388940_S1442_L012_3DL2nuc	Variant: T/C	File: ID12551382_S2914_L012_3DL2nuc	Variant: T/C
+
+Position: 4326	File: ID12308823_S1325_L012_3DL2nuc	Variant: T/C	File: ID12308869_S27_L012_3DL2nuc	Variant: T/C	File: ID12557801_S3358_L012_3DL2nuc	Variant: T/C
+
+Position: 6376	File: ID12760603_S2868_L012_3DL2nuc	Variant: C/T	File: ID13423236_S4296_L012_3DL2nuc	Variant: C/T
+
+Position: 4329	File: ID13372970_S3699_L012_3DL2nuc	Variant: G/A	File: ID12313438_S419_L012_3DL2nuc	Variant: G/A	File: ID13053715_S3664_L012_3DL2nuc	Variant: G/A
+
+Position: 4331	File: ID13456972_S4753_L012_3DL2nuc	Variant: T/C	File: ID12166772_S3498_L012_3DL2nuc	Variant: T/C	File: ID12745160_S1116_L012_3DL2nuc	Variant: T/G
+
+Position: 6381	File: ID12193812_S4382_L012_3DL2nuc	Variant: T/C	File: ID12194802_S4404_L012_3DL2nuc	Variant: T/C
+
+Position: 6382	File: ID12470680_S2248_L012_3DL2nuc	Variant: C/T	File: ID12391958_S727_L012_3DL2nuc	Variant: C/T	File: ID13146064_S2939_L012_3DL2nuc	Variant: C/T
+
+Position: 4335	File: ID12551017_S2357_L012_3DL2nuc	Variant: A/C	File: ID12293327_S168_L001_3DL2nuc	Variant: A/G	File: ID12638380_S4156_L012_3DL2nuc	Variant: A/G
+
+Position: 6384	File: ID13335877_S3298_L012_3DL2nuc	Variant: A/G	File: ID12767477_S4284_L012_3DL2nuc	Variant: A/G	File: ID12606247_S4478_L012_3DL2nuc	Variant: A/G
+
+Position: 6385	File: ID12648084_S161_L001_3DL2nuc	Variant: G/A	File: ID12279647_S3635_L012_3DL2nuc	Variant: G/C	File: ID13231166_S143_L012_3DL2nuc	Variant: G/A
+
+Position: 6386	File: ID12436488_S4709_L012_3DL2nuc	Variant: T/A	File: ID13417826_S97_L012_3DL2nuc	Variant: T/G
+
+Position: 4435	File: ID12301537_S2168_L012_3DL2nuc	Variant: T/C	File: ID13449045_S3717_L012_3DL2nuc	Variant: T/G
+
+Position: 6388	File: ID12483992_S2515_L012_3DL2nuc	Variant: A/G	File: ID13267509_S1614_L012_3DL2nuc	Variant: A/G
+
+Position: 4341	File: ID12439859_S30_L001_3DL2nuc	Variant: G/C	File: ID12278983_S30_L012_3DL2nuc	Variant: T/T	File: ID12766774_S2912_L012_3DL2nuc	Variant: G/A
+
+Position: 6392	File: ID13210222_S3079_L012_3DL2nuc	Variant: A/T	File: ID12194032_S4308_L012_3DL2nuc	Variant: A/G	File: ID13421758_S2963_L012_3DL2nuc	Variant: A/C
+
+Position: 6394	File: ID12364654_S713_L012_3DL2nuc	Variant: T/C	File: ID13085971_S2615_L012_3DL2nuc	Variant: T/C
+
+Position: 4347	File: ID12278974_S21_L012_3DL2nuc	Variant: T/C	File: ID12294874_S4328_L012_3DL2nuc	Variant: T/C	File: ID12995189_S4072_L012_3DL2nuc	Variant: T/G
+
+Position: 6396	File: ID13178007_S1261_L012_3DL2nuc	Variant: C/G	File: ID12364616_S675_L012_3DL2nuc	Variant: C/G	File: ID13059154_S4562_L012_3DL2nuc	Variant: C/T
+
+Position: 4351	File: ID12588307_S2694_L012_3DL2nuc	Variant: T/C	File: ID12307621_S1707_L012_3DL2nuc	Variant: T/C
+

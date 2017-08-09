@@ -1,0 +1,18 @@
+Single Variant Files (6/308)
+Position: 6160	File: ID12940134_S2544_L012_3DL2nuc	Variant: C/A
+
+Position: 4315	File: ID13663219_S347_L012_3DL2nuc	Variant: T/A
+
+Position: 6132	File: ID12298030_S42_L012_3DL2nuc	Variant: C/G
+
+Position: 4328	File: ID12940134_S2544_L012_3DL2nuc	Variant: A/G
+
+Position: 6201	File: ID13019498_S666_L012_3DL2nuc	Variant: T/C
+
+Position: 6235	File: ID12340331_S1817_L012_3DL2nuc	Variant: A/G
+
+
+
+Multi Variant Files (1/308)
+Position: 6218	File: ID13019498_S666_L012_3DL2nuc	Variant: C/G	File: ID12661231_S3748_L012_3DL2nuc	Variant: C/G
+
