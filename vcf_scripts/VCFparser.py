@@ -49,6 +49,8 @@ class VCFparser:
 
     # Returns a dictionary of position:genotype for all records in *record_list*
     def process_genotypes(self, record_list, only_variants=False):
+        if record_list is None:
+            return {}
         genos = {}
         for record in record_list:
             ref = record.REF
@@ -93,21 +95,36 @@ class VCFparser:
 
 
     def gather_private_alleles(self, sample_names, path_to_samples = "", sub_folder=""):
-
-        private_alleles = {}
+        #### { Sample : { "pos:var" : count, "pos2:var2": count2 }, Sample2 : { "pos3:var3" : count3 } }
+        private_alleles = { sn : {} for sn in sample_names }
+        public_list = []
         for sample in sample_names:
+
             dir = os.path.join(path_to_samples, sample, sub_folder)
             files = self.get_files_in_dir(dir, file_ending=".vcf")
             for file in files:
-                recs = self.read_vcf(file)
-                if recs is not None:
-                    genos = self.process_genotypes(recs, only_variants=True)
-                    print(sample,genos)
+                # Will return empty dict if recs = None
+                genos = self.process_genotypes(self.read_vcf(file), only_variants=True)
+                print(sample,genos)
+                for pos, var in genos.items():
+                    g = "{}:{}".format(pos, var)
+                    if g in public_list:
+                        continue
+                    private = True
+
+                    for s in sample_names:
+                        if s is sample:
+                            continue
+                        if g in private_alleles[s]:
+                            private_alleles[s].pop(g, None)
+                            public_list.append(g)
+                            private = False
+
+                    if private:
+                        if g not in private_alleles[sample]:
+                            private_alleles[sample][g] = 0
+                        private_alleles[sample][g] += 1
+
+        print("Private: ", private_alleles)
 
 
-
-
-vcfp = VCFparser()
-inputfolder = "../input_test"
-sample_names = vcfp.get_dirs_in_dir(inputfolder, full_path=False)
-vcfp.gather_private_alleles(sample_names, path_to_samples=inputfolder)
