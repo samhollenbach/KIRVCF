@@ -34,7 +34,7 @@ class VCFparser:
         if exclude_dirs is None:
             exclude_dirs = ["Vcf"]
         if full_path:
-            return [os.path.join(directory, dir, sub_folder) for dir in os.listdir(directory) if dir not in exclude_dirs and not dir.startswith(".")]
+            return [os.path.join(directory, dir, sub_folder) for dir in os.listdir(directory) if os.path.isdir(dir) and dir not in exclude_dirs and not dir.startswith(".")]
         else:
             return [dir for dir in os.listdir(directory) if dir not in exclude_dirs and not dir.startswith(".")]
 
