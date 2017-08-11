@@ -10,7 +10,7 @@ class VCFparser:
 
     def __init__(self):
         self.n_jobs = 4
-        self.output_dir = "results/"
+        self.output_dir = "../results/"
 
     def set_njobs(self, n):
         self.n_jobs = n
@@ -124,7 +124,8 @@ class VCFparser:
                         if g not in private_alleles[sample]:
                             private_alleles[sample][g] = 0
                         private_alleles[sample][g] += 1
+        print("Private Alleles: ", private_alleles)
+        return private_alleles
 
-        print("Private: ", private_alleles)
 
 
