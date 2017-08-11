@@ -9,6 +9,7 @@ variant_filenames = [os.path.join(input_dir, file) for file in os.listdir(input_
 
 use_baseline = False
 
+country_total_n = {}
 
 def find_baseline(country):
     for file in variant_filenames:
@@ -26,7 +27,8 @@ def read_singletons(filename, is_baseline = False):
 
         reader = csv.reader(r, delimiter="\t")
         country = filename.split("/")[-1].replace(file_ending,"")
-        print(country)
+        totalN = int(next(reader)[0].split("/")[-1][:-1])
+        country_total_n[country] = totalN
         singletons = []
         for row in reader:
             if not row:
@@ -43,6 +45,35 @@ def read_singletons(filename, is_baseline = False):
             singletons.append(row)
 
         return country, singletons
+
+
+def read_multis(filename, is_baseline = False):
+    with open(filename, "r") as r:
+
+        print("Reading {} for multis".format(filename))
+
+        reader = csv.reader(r, delimiter="\t")
+
+        country = filename.split("/")[-1].replace(file_ending,"")
+        totalN = int(next(reader)[0].split("/")[-1][:-1])
+        country_total_n[country] = totalN
+        multis = []
+        read = False
+        for row in reader:
+            if not row:
+                continue
+            if "Multi Variant Files" in row[0]:
+                read = True
+                continue
+            if not read or "Position:" not in row[0]:
+                continue
+            row = {r[0] : r[1] for r in map(lambda x: x.split(": "),row)}
+            if is_baseline:
+                row["Countries"] = [country]
+
+            multis.append(row)
+
+        return country, multis
 
 
 def create_variants_obj():
@@ -85,17 +116,14 @@ for v in vars:
 
 print(vars_counts)
 
-wd = list(vars_counts.keys())
-ws = list(vars_counts.values())
-
 
 
 with open("../results/singleton_vars_all.txt", 'w') as w:
     writer = csv.writer(w, delimiter="\t")
-    writer.writerow(["Shares", "Country", "Count"])
+    writer.writerow(["Shares", "Country", "Count", "Freq"])
     for shares, country_counts in vars_counts.items():
         for country, count in country_counts.items():
-            writer.writerow([shares, country, count])
+            writer.writerow([shares, country, count, count/country_total_n[country]])
 
 
 

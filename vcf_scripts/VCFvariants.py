@@ -8,7 +8,12 @@ import csv
 
 vcf_file_ending = ".vcf"
 
-num_files = 5
+
+variant_cap = 5
+use_variant_cap = False
+
+include_filenames = False
+
 
 
 
@@ -93,7 +98,7 @@ def check_variants(filename, vcf_vals):
 
 
 def process_variants(avar, total_files_num, outfile):
-    count_ciel = 4
+    count_ciel = variant_cap
     single_variant_files = {}
     multi_variant_files = {}
 
