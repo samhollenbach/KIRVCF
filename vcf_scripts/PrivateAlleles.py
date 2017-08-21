@@ -6,9 +6,9 @@ from VCFparser import VCFparser
 
 vcfp = VCFparser()
 inputfolder = "/home/jurgen/Results"
-sample_names = vcfp.get_dirs_in_dir(directory=inputfolder, full_path=False)
-print(sample_names)
-pa = vcfp.gather_private_alleles(sample_names, path_to_samples=inputfolder, sub_folder="vcf")
+sample_paths = vcfp.get_dirs_in_dir(directory=inputfolder, make_dict=True, sub_folder="Vcf")
+print(sample_paths)
+pa = vcfp.gather_private_alleles(sample_paths)
 
 header = ["Country", "Position", "Variant", "Count"]
 rows = []

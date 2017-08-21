@@ -30,13 +30,13 @@ class VCFparser:
     def get_files_in_dir(self, directory, file_ending = ""):
         return [os.path.join(directory, file) for file in os.listdir(directory) if file.endswith(file_ending)]
 
-    def get_dirs_in_dir(self, directory, exclude_dirs=None, full_path=False, sub_folder=""):
+    def get_dirs_in_dir(self, directory, exclude_dirs=None, make_dict=False, sub_folder=""):
         if exclude_dirs is None:
             exclude_dirs = ["Vcf"]
-        if full_path:
-            return [os.path.join(directory, dir, sub_folder) for dir in os.listdir(directory) if os.path.isdir(dir) and dir not in exclude_dirs and not dir.startswith(".")]
+        if make_dict:
+            return { dir : os.path.join(directory, dir, sub_folder) for dir in os.listdir(directory) if os.path.isdir(os.path.join(directory, dir)) and dir not in exclude_dirs and not dir.startswith(".")}
         else:
-            return [dir for dir in os.listdir(directory) if dir not in exclude_dirs and not dir.startswith(".")]
+            return [dir for dir in os.listdir(directory) if os.path.isdir(os.path.join(directory, dir)) and dir not in exclude_dirs and not dir.startswith(".")]
 
     # Returns list of all records in specified vcf file
     # TODO: ADD PARAMS FOR FILTER IF NECESSARY
@@ -87,6 +87,7 @@ class VCFparser:
     def write_output_file(self, filename, col_names, data, delim = "\t", output_dir=None,):
         if output_dir is None:
             output_dir = self.output_dir
+        print("\nWriting output to {}\n".format(output_dir+filename))
         with open(output_dir+filename, 'w') as w:
             writer = csv.writer(w, delimiter=delim)
             writer.writerow(col_names)
@@ -94,26 +95,26 @@ class VCFparser:
                 writer.writerow(row)
 
 
-    def gather_private_alleles(self, sample_names, path_to_samples = "", sub_folder=""):
+    def gather_private_alleles(self, sample_paths_dict):
         #### { Sample : { "pos:var" : count, "pos2:var2": count2 }, Sample2 : { "pos3:var3" : count3 } }
-        private_alleles = { sn : {} for sn in sample_names }
+        private_alleles = { sn : {} for sn in sample_paths_dict.keys() }
         public_list = []
-        for sample in sample_names:
+        for sample_name, sample_path in sample_paths_dict.items():
 
-            dir = os.path.join(path_to_samples, sample, sub_folder)
-            files = self.get_files_in_dir(dir, file_ending=".vcf")
+            #dir = os.path.join(path_to_samples, sample, sub_folder)
+            files = self.get_files_in_dir(sample_path, file_ending=".vcf")
             for file in files:
                 # Will return empty dict if recs = None
                 genos = self.process_genotypes(self.read_vcf(file), only_variants=True)
-                print(sample,genos)
+                print(sample_name,genos)
                 for pos, var in genos.items():
                     g = "{}:{}".format(pos, var)
                     if g in public_list:
                         continue
                     private = True
 
-                    for s in sample_names:
-                        if s is sample:
+                    for s in sample_paths_dict.keys():
+                        if s is sample_name:
                             continue
                         if g in private_alleles[s]:
                             private_alleles[s].pop(g, None)
@@ -121,9 +122,9 @@ class VCFparser:
                             private = False
 
                     if private:
-                        if g not in private_alleles[sample]:
-                            private_alleles[sample][g] = 0
-                        private_alleles[sample][g] += 1
+                        if g not in private_alleles[sample_name]:
+                            private_alleles[sample_name][g] = 0
+                        private_alleles[sample_name][g] += 1
         print("Private Alleles: ", private_alleles)
         return private_alleles
 
